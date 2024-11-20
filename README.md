@@ -10,7 +10,7 @@
 
 ## 📥 Download the APK  
 Play the game now by downloading the APK file from the link below:  
-[**Download the Latest Release**](https://github.com/yasinkarasu/2d-snowboard-game/releases)  
+[**Download the Latest Release**](https://github.com/yasinkarasu/2DSnowBoarderAndroid/releases/tag/v1.0.0)
 
 ## 🛠️ Technologies Used  
 - **Unity**: Game development engine  
